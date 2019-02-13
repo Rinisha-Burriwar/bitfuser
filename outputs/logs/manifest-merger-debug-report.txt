@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:1-42:12
+MERGED from [:sqflite] H:\Gitlab\Flutter\bits_fuser\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:local_auth] H:\Gitlab\Flutter\bits_fuser\build\local_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_string_encryption] H:\Gitlab\Flutter\bits_fuser\build\flutter_string_encryption\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [:path_provider] H:\Gitlab\Flutter\bits_fuser\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\14ebc80ebafbca0fd17ded4aa9faf618\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.tozny:java-aes-crypto:1.1.0] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\java-aes-crypto-1.1.0.aar\75f07ad34b13727b084b72c3e72a274a\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\2d070e2b04da696bd8a84694c52132bb\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\2df85b9854efb8f37b94a1569f25d937\AndroidManifest.xml:17:1-22:12
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:1-42:12
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:1-42:12
+	package
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:1-42:12
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:9:5-66
+	android:name
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:10:22-71
+application
+ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:17:5-41:19
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\14ebc80ebafbca0fd17ded4aa9faf618\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\14ebc80ebafbca0fd17ded4aa9faf618\AndroidManifest.xml:22:5-89
+MERGED from [com.github.tozny:java-aes-crypto:1.1.0] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\java-aes-crypto-1.1.0.aar\75f07ad34b13727b084b72c3e72a274a\AndroidManifest.xml:10:5-20
+MERGED from [com.github.tozny:java-aes-crypto:1.1.0] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\java-aes-crypto-1.1.0.aar\75f07ad34b13727b084b72c3e72a274a\AndroidManifest.xml:10:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\2d070e2b04da696bd8a84694c52132bb\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\2d070e2b04da696bd8a84694c52132bb\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha03] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\14ebc80ebafbca0fd17ded4aa9faf618\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:19:9-35
+	tools:ignore
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:21:9-48
+	android:icon
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:18:9-57
+activity#com.nishantghanate.bitsfuser.MainActivity
+ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:22:9-40:20
+	android:launchMode
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:24:13-43
+	android:hardwareAccelerated
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:27:13-47
+	android:windowSoftInputMode
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:28:13-55
+	android:configChanges
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:26:13-137
+	android:theme
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:23:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:33:13-35:40
+	android:value
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:35:17-37
+	android:name
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:34:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:36:13-39:29
+action#android.intent.action.MAIN
+ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:37:17-68
+	android:name
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml:38:27-74
+uses-sdk
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+MERGED from [:sqflite] H:\Gitlab\Flutter\bits_fuser\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] H:\Gitlab\Flutter\bits_fuser\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] H:\Gitlab\Flutter\bits_fuser\build\local_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:local_auth] H:\Gitlab\Flutter\bits_fuser\build\local_auth\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_string_encryption] H:\Gitlab\Flutter\bits_fuser\build\flutter_string_encryption\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:flutter_string_encryption] H:\Gitlab\Flutter\bits_fuser\build\flutter_string_encryption\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:path_provider] H:\Gitlab\Flutter\bits_fuser\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] H:\Gitlab\Flutter\bits_fuser\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\14ebc80ebafbca0fd17ded4aa9faf618\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha03] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha03.aar\14ebc80ebafbca0fd17ded4aa9faf618\AndroidManifest.xml:20:5-44
+MERGED from [com.github.tozny:java-aes-crypto:1.1.0] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\java-aes-crypto-1.1.0.aar\75f07ad34b13727b084b72c3e72a274a\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.tozny:java-aes-crypto:1.1.0] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\java-aes-crypto-1.1.0.aar\75f07ad34b13727b084b72c3e72a274a\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\2d070e2b04da696bd8a84694c52132bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha01.aar\2d070e2b04da696bd8a84694c52132bb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\2df85b9854efb8f37b94a1569f25d937\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Nishant Ghanate\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\2df85b9854efb8f37b94a1569f25d937\AndroidManifest.xml:20:5-44
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+		ADDED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
+		INJECTED from H:\Gitlab\Flutter\bits_fuser\android\app\src\main\AndroidManifest.xml
